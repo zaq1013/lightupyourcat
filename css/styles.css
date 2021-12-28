@@ -12851,6 +12851,11 @@ section#contact form#contactForm :-ms-input-placeholder {
   margin-top: 50px;
   margin-left: 40%;
   font-size: 24px;
-  background-color: purple;
-  border-color: purple;
+  background-color: var(--bs-yellow);
+  border-color: var(--bs-yellow);
+}
+
+.tb {
+  height: 15em;
+  width: auto;
 }
