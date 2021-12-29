@@ -186,6 +186,7 @@ h6,
 p {
   margin-top: 0;
   margin-bottom: 1rem;
+  font-size: 1.2rem;
 }
 
 abbr[title],
@@ -12264,7 +12265,7 @@ p {
 
 .page-section h3.section-subheading,
 .page-section .section-subheading.h3 {
-  font-size: 1rem;
+  font-size: 1.5rem;
   font-weight: 400;
   font-style: italic;
   font-family: "Roboto Slab", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
@@ -12471,6 +12472,7 @@ header.masthead .masthead-heading {
 }
 
 #portfolio .portfolio-item .portfolio-caption .portfolio-caption-subheading {
+  font-size: 20px;
   font-style: italic;
   font-family: "Roboto Slab", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
@@ -12858,4 +12860,12 @@ section#contact form#contactForm :-ms-input-placeholder {
 .tb {
   height: 15em;
   width: auto;
+}
+
+.infoma {
+  font-size: 21px;
+  font-weight: 400;
+  font-style: italic;
+  font-family: "Roboto Slab", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  margin-bottom: 4rem;
 }
